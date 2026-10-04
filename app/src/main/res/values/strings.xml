@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Schedulo</string>
+    <string name="accessibility_description">Schedulo uses this permission only to tap the Send button in WhatsApp for messages you scheduled. It does not read, store or share your chats.</string>
+</resources>
